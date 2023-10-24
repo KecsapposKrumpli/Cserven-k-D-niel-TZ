@@ -1,0 +1,14 @@
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\bin\Debug\net6.0\20231024Gyak.exe
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\bin\Debug\net6.0\20231024Gyak.deps.json
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\bin\Debug\net6.0\20231024Gyak.runtimeconfig.json
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\bin\Debug\net6.0\20231024Gyak.dll
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\bin\Debug\net6.0\20231024Gyak.pdb
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\20231024Gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\20231024Gyak.AssemblyInfoInputs.cache
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\20231024Gyak.AssemblyInfo.cs
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\20231024Gyak.csproj.CoreCompileInputs.cache
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\20231024Gyak.dll
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\refint\20231024Gyak.dll
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\20231024Gyak.pdb
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\20231024Gyak.genruntimeconfig.cache
+C:\Users\C20CservenákD\source\repos\20231024Gyak\20231024Gyak\obj\Debug\net6.0\ref\20231024Gyak.dll
